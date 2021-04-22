@@ -95,6 +95,8 @@ a {
 }
 a:hover {
   transform: scale(0.9);
+  background-color: transparent;
+  color: #fff!important;
 }
 
 
